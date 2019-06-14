@@ -1,0 +1,19 @@
+
+cell.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+table_cell
+  rotate: false
+  xy: 1, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+cell_bg
+  rotate: false
+  xy: 223, 1
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
